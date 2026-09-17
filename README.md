@@ -52,8 +52,6 @@ cmake --build build               # build the project
 4. Team2 | Pts: 3 | W-D-L: 0-3-3 | GD: -7 (15:22)
 ```
 
-> Replace this with real output from an actual run.
-
 ## Tech
 
 - **Language:** C++20
