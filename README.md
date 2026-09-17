@@ -45,16 +45,12 @@ cmake --build build               # build the project
 ## Example output
 
 ```
-Round 12 complete.
-
-Standings:
-1. Team A     P12  W9  D2  L1   Pts 29
-2. Team B     P12  W8  D3  L1   Pts 27
-3. Team C     P12  W6  D4  L2   Pts 22
-...
+--- Standings (Championship 2030) ---
+1. Team1 | Pts: 15 | W-D-L: 5-0-1 | GD: 10 (15:5)
+2. Team3 | Pts: 11 | W-D-L: 3-2-1 | GD: 5 (17:12)
+3. Team4 | Pts: 4 | W-D-L: 1-1-4 | GD: -8 (11:19)
+4. Team2 | Pts: 3 | W-D-L: 0-3-3 | GD: -7 (15:22)
 ```
-
-> Replace this with real output from an actual run.
 
 ## Tech
 
